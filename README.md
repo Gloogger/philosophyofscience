@@ -62,7 +62,7 @@
 
 - Chapter 08：Epistemic and Metaphysical Issues about Scientific Theories
 
-  [[领读（PPT）]](slides/08_1.pdf) 
+  [[领读（PPT）]](slides/08_1.pptx) 
   
   [video]
 
