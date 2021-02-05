@@ -94,7 +94,9 @@
 
 - Chapter 13：Naturalism in the Philosophy of Science
 
-  [slides] [video]
+  [[领读（PPT）]](slides/13_1.pdf) 
+  
+  [video]
 
 - Chapter 14：The Contested Character of Science
 
