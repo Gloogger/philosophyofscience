@@ -96,11 +96,17 @@
 
   [[领读（PPT）]](slides/13_1.pdf) 
   
+  [[领读文字版（PDF）]](slides/13_2.pdf) 
+  
   [video]
 
 - Chapter 14：The Contested Character of Science
 
-  [slides] [video]
+  [[领读（PPT）]](slides/14_1.pdf) 
+  
+  [[领读文字版（PDF）]](slides/14_2.pdf) 
+  
+  [video]
 
 - Chapter 15：Science, Relativism, and Objectivity
 
