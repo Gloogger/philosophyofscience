@@ -68,7 +68,9 @@
 
 - Chapter 09：Theory Construction vs. Model Building
 
-  [slides] [video]
+  [[领读（PPT）]](slides/09_1.pdf) 
+  
+  [video]
 
 - Chapter 10：Induction and Probability
 
