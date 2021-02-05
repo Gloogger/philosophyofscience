@@ -44,7 +44,9 @@
 
 - Chapter 05：Causation, Inexact Laws, and Statistical Probabilities
 
-  [slides] [video]
+  [[领读（PPT）]](slides/05_1.pdf) 
+  
+  [video]
   
 - Chapter 06：Laws and Explanations in Biology and the “Special Sciences”
 
