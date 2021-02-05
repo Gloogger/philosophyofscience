@@ -14,7 +14,9 @@
 
 - Chapter 01：The Relationship between Philosophy and Science
 
-  [slides] [video]
+  [[领读（PPT）]](slides/01_1.pdf) 
+  [[补充文件：读书笔记（Xmind）]](slides/01_2.pdf)
+  [video]
 
 - Chapter 02：Why Is Philosophy of Science Important?
 
