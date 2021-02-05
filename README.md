@@ -50,7 +50,9 @@
   
 - Chapter 06：Laws and Explanations in Biology and the “Special Sciences”
 
-  [slides] [video]
+  [[领读（PPT）]](slides/06_1.pdf) 
+  
+  [video]
   
 - Chapter 07：The Structure of Scientific Theories
 
