@@ -56,7 +56,9 @@
   
 - Chapter 07：The Structure of Scientific Theories
 
-  [slides] [video]
+  [[领读（PPT）]](slides/07_1.pdf) 
+  
+  [video]
 
 - Chapter 08：Epistemic and Metaphysical Issues about Scientific Theories
 
