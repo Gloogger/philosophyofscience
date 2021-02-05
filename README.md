@@ -62,7 +62,9 @@
 
 - Chapter 08：Epistemic and Metaphysical Issues about Scientific Theories
 
-  [slides] [video]
+  [[领读（PPT）]](slides/08_1.pdf) 
+  
+  [video]
 
 - Chapter 09：Theory Construction vs. Model Building
 
