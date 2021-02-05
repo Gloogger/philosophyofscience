@@ -36,7 +36,11 @@
 
 - Chapter 04：Why Do Laws Explain
 
-  [slides] [video]
+  [[领读（PPT）]](slides/04_1.pdf) 
+  
+  [[领读（Xmind）]](slides/04_2.pdf)
+  
+  [video]
 
 - Chapter 05：Causation, Inexact Laws, and Statistical Probabilities
 
