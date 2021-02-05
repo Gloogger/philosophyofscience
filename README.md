@@ -68,7 +68,7 @@
 
 - Chapter 09：Theory Construction vs. Model Building
 
-  咦？东西不见了！
+  [[领读（PPT）]](slides/09_1.pdf)
   
   [video]
 
