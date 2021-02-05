@@ -22,7 +22,9 @@
 
 - Chapter 02：Why Is Philosophy of Science Important?
 
-  [slides] [video]
+  [[领读（Xmind）]](slides/02_1.pdf) 
+  
+  [video]
 
 - Chapter 03：Scientific Explanation
 
