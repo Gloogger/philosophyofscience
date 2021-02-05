@@ -76,15 +76,21 @@
 
   [[领读（PPT）]](slides/10_1.pdf) 
 
-  [slides] [video]
+  [video]
 
 - Chapter 11：Confirmation, Falsification, Underdetermination
 
-  [slides] [video]
+  [[领读（PPT）]](slides/11_1.pdf) 
+  
+  [video]
 
 - Chapter12：Challenges from the History of Science
 
-  [slides] [video]
+  [[领读（Focusky）]](slides/12_1.fs) 
+  
+  [[领读（PDF）]](slides/12_2.pdf) 
+  
+  [video]
 
 - Chapter 13：Naturalism in the Philosophy of Science
 
