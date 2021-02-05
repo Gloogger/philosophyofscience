@@ -28,7 +28,11 @@
 
 - Chapter 03：Scientific Explanation
 
-  [slides] [video]
+  [[领读（PPT）]](slides/03_1.pdf) 
+  
+  [[补充材料：读书笔记（Xmind）]](slides/03_2.pdf)
+  
+  [video]
 
 - Chapter 04：Why Do Laws Explain
 
