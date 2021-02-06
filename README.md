@@ -110,7 +110,9 @@
 
 - Chapter 15：Science, Relativism, and Objectivity
 
-  [slides] [video]
+  [[领读（Focusky）]](slides/15_1.fs) 
+  
+  [video]
 
 ### 2.关于Alex Rosenberg 与 Lee McIntyre
 
